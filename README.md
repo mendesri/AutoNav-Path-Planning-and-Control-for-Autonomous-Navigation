@@ -19,8 +19,4 @@ A_shortest_path_list.py --> A* with open list containing the nodes that we are a
 </ul></li>
 <img width="1048" height="876" alt="image" src="https://github.com/user-attachments/assets/c77d3401-a36a-4015-af1a-a7d1f32c9dae" />
 
-Yet to implement : 
-RRT --> Based sampling based motion planning to see 
-And also RL to select heuristic based on the number of directions we are going to move in 
-
 
